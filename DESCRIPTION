@@ -6,7 +6,7 @@ Authors@R:
            comment = c(ORCID = "0000-0002-9568-2790"))
 Description: Provide testing for rix
 License: MIT + file LICENSE
-Remotes: ropensci/rix@available_dates
+Remotes: ropensci/rix@88bb24f
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
